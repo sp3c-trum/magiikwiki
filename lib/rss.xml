@@ -1,4 +1,229 @@
-<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Magikopedia]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Magikopedia</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Tue, 07 Jan 2025 22:46:30 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Tue, 07 Jan 2025 22:46:27 GMT</pubDate><copyright><![CDATA[Mag Magik II]]></copyright><ttl>60</ttl><dc:creator>Mag Magik II</dc:creator><item><title><![CDATA[Sortowanie przez wybieranie]]></title><description><![CDATA[<a class="tag" href="?query=tag:sortowanie" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#sortowanie</a> <a class="tag" href="?query=tag:On2" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#On2</a> 
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Magikopedia]]></title><description><![CDATA[Obsidian digital garden]]></description><link>http://github.com/dylang/node-rss</link><image><url>lib\media\favicon.png</url><title>Magikopedia</title><link/></image><generator>Webpage HTML Export plugin for Obsidian</generator><lastBuildDate>Sat, 11 Jan 2025 17:51:52 GMT</lastBuildDate><atom:link href="lib\rss.xml" rel="self" type="application/rss+xml"/><pubDate>Sat, 11 Jan 2025 17:51:50 GMT</pubDate><copyright><![CDATA[Mag Magik II]]></copyright><ttl>60</ttl><dc:creator>Mag Magik II</dc:creator><item><title><![CDATA[Link]]></title><description><![CDATA[ 
+ <br><br>Procesor, znany również jako jednostka centralna (ang. Central Processing Unit, CPU), jest jednym z najważniejszych komponentów każdego komputera. Odpowiada za wykonywanie obliczeń oraz realizację instrukcji zawartych w programach. Współczesne procesory charakteryzują się ogromną mocą obliczeniową, miniaturowymi wymiarami oraz zaawansowaną architekturą.<br>
+<img alt="Pasted image 20241228172455.png" src="lib\media\pasted-image-20241228172455.png">]]></description><link>misc\link.html</link><guid isPermaLink="false">Misc/Link.md</guid><dc:creator><![CDATA[Mag Magik II]]></dc:creator><pubDate>Sun, 05 Jan 2025 23:08:32 GMT</pubDate><enclosure url="lib\media\pasted-image-20241228172455.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="lib\media\pasted-image-20241228172455.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Wywołania systemowe]]></title><description><![CDATA[ 
+ <br>]]></description><link>misc\wywołania-systemowe.html</link><guid isPermaLink="false">Misc/Wywołania systemowe.md</guid><dc:creator><![CDATA[Mag Magik II]]></dc:creator><pubDate>Sun, 05 Jan 2025 23:08:46 GMT</pubDate></item><item><title><![CDATA[Komunikacja międzyprocesowa]]></title><description><![CDATA[ 
+ <br>]]></description><link>os\concepts\procesy\komunikacja-międzyprocesowa.html</link><guid isPermaLink="false">OS/Concepts/Procesy/Komunikacja międzyprocesowa.md</guid><dc:creator><![CDATA[Mag Magik II]]></dc:creator><pubDate>Sat, 11 Jan 2025 14:38:40 GMT</pubDate></item><item><title><![CDATA[Kabel koncentryczny]]></title><description><![CDATA[<a class="tag" href="?query=tag:sieci" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#sieci</a> <a class="tag" href="?query=tag:okablowanie" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#okablowanie</a> <a class="tag" href="?query=tag:połączenie" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#połączenie</a> 
+ <br><a href=".?query=tag:sieci" class="tag" target="_blank" rel="noopener nofollow">#sieci</a> <a href=".?query=tag:okablowanie" class="tag" target="_blank" rel="noopener nofollow">#okablowanie</a> <a href=".?query=tag:połączenie" class="tag" target="_blank" rel="noopener nofollow">#połączenie</a> <br><br>Kabel koncentryczny to rodzaj kabla elektrycznego, który jest specjalnie zaprojektowany do przesyłania sygnałów o wysokiej częstotliwości. Jest szeroko stosowany w systemach telekomunikacyjnych, telewizyjnych, sieciach komputerowych oraz systemach radiowych.<br><br>
+<br>Przewodnik wewnętrzny: Centralny rdzeń, który zwykle wykonany jest z miedzi lub stali pokrytej miedzią. Jest on odpowiedzialny za przesyłanie sygnału.
+<br>Izolacja dielektryczna: Warstwa otaczająca przewodnik wewnętrzny, która izoluje go elektrycznie i pomaga utrzymać stały odstęp między przewodnikiem a ekranem.
+<br>Ekran (przewodnik zewnętrzny): Plecionka z drutu miedzianego lub aluminiowego (czasem w połączeniu z folią), która chroni sygnał przed zakłóceniami elektromagnetycznymi z zewnątrz.
+<br>Płaszcz zewnętrzny: Zewnętrzna warstwa ochronna wykonana z tworzywa sztucznego, która zabezpiecza kabel przed uszkodzeniami mechanicznymi i warunkami atmosferycznymi.
+]]></description><link>sieci\media-transmisyjne\kabel-koncentryczny.html</link><guid isPermaLink="false">Sieci/Media transmisyjne/Kabel koncentryczny.md</guid><dc:creator><![CDATA[Mag Magik II]]></dc:creator><pubDate>Sat, 11 Jan 2025 09:28:47 GMT</pubDate></item><item><title><![CDATA[Media transmisyjne]]></title><description><![CDATA[<a class="tag" href="?query=tag:sieci" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#sieci</a> <a class="tag" href="?query=tag:okablowanie" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#okablowanie</a> <a class="tag" href="?query=tag:połączenie" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#połączenie</a> <a class="tag" href="?query=tag:bezprzewodowe" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#bezprzewodowe</a> 
+ <br><a href=".?query=tag:sieci" class="tag" target="_blank" rel="noopener nofollow">#sieci</a> <a href=".?query=tag:okablowanie" class="tag" target="_blank" rel="noopener nofollow">#okablowanie</a> <a href=".?query=tag:połączenie" class="tag" target="_blank" rel="noopener nofollow">#połączenie</a> <a href=".?query=tag:bezprzewodowe" class="tag" target="_blank" rel="noopener nofollow">#bezprzewodowe</a><br><br>Fizyczne lub bezprzewodowe środki, które umożliwają przesyłanie danych między urządzeniami w sieci. Są to nośniki transmisji danych, zapewniają połączenie między węzłami. Wyróżniamy dwa typy:<br>
+<br>Przewodowe:
+
+<br><a data-href="Kabel koncentryczny" href="sieci\media-transmisyjne\kabel-koncentryczny.html" class="internal-link" target="_self" rel="noopener nofollow">Kabel koncentryczny</a>
+<br><a data-href="RJ45" href="sieci\media-transmisyjne\rj45.html" class="internal-link" target="_self" rel="noopener nofollow">RJ45</a>
+<br><a data-href="Światłowód" href="sieci\media-transmisyjne\światłowód.html" class="internal-link" target="_self" rel="noopener nofollow">Światłowód</a>
+
+
+<br>Bezprzewodowe:
+
+<br>Wi-Fi
+
+
+]]></description><link>sieci\media-transmisyjne\media-transmisyjne.html</link><guid isPermaLink="false">Sieci/Media transmisyjne/Media transmisyjne.md</guid><dc:creator><![CDATA[Mag Magik II]]></dc:creator><pubDate>Sat, 11 Jan 2025 09:31:27 GMT</pubDate></item><item><title><![CDATA[RJ45]]></title><description><![CDATA[<a class="tag" href="?query=tag:sieci" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#sieci</a> <a class="tag" href="?query=tag:połączenie" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#połączenie</a> <a class="tag" href="?query=tag:okablowanie" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#okablowanie</a> 
+ <br><a href=".?query=tag:sieci" class="tag" target="_blank" rel="noopener nofollow">#sieci</a> <a href=".?query=tag:połączenie" class="tag" target="_blank" rel="noopener nofollow">#połączenie</a> <a href=".?query=tag:okablowanie" class="tag" target="_blank" rel="noopener nofollow">#okablowanie</a><br><br>Skrętka RJ45 to jeden z najpopularniejszych typów okablowania w sieciach komputerowych. Składa się ona z par przewodów, które są skręcone w celu zredukowania zakłóceń elektromagnetycznych.<br><br>Cat 3:<br>
+<br>Przepustowość do 10 Mbps.
+<br>Cat 5:<br>
+<br>Przepustowość do 100 Mbps (Ethernet 100BASE-TX).
+<br>Zastąpiona przez Cat 5e.
+<br>Cat 5e:<br>
+<br>Przepustowość do 1 Gbps.
+<br>Cat 6:<br>
+<br>Przepustowość do 10 Gbps na odległośc do 55 metrów.
+<br>Cat 6e (Augmented):<br>
+<br>Przepustowość do 10 Gbps na odległość do 100 metrów.
+<br>Cat 7:<br>
+<br>Przepustowość do 10 Gbps na odległośc do 100 metrów.
+<br>Ekranowanie: Każda para przewodów ma własne ekranowanie (STP).
+<br>Cat 8:<br>
+<br>Przepustowość do 40 Gbps na odległość do 30 metrów.
+<br>Ekranowanie: Bardzo zaawansowane ekranowanie.
+<br><br>
+<br>UTP (Unshielded Twisted Pair): Skrętka bez ekranowania.
+<br>STP (Shielded Twisted Pair): Skrętka ekranowana. Chroni przed zakłóceniami elektromagnetycznymi.
+<br>FTP (Foiled Twisted Pair): Każda para przewodów ma folię ochronną.
+<br>S/FTP (Shielded Foiled Twisted Pair): Kombinacja ekranowania ogólnego i folii dla każdej pary przewodów.
+]]></description><link>sieci\media-transmisyjne\rj45.html</link><guid isPermaLink="false">Sieci/Media transmisyjne/RJ45.md</guid><dc:creator><![CDATA[Mag Magik II]]></dc:creator><pubDate>Sat, 11 Jan 2025 08:42:34 GMT</pubDate></item><item><title><![CDATA[Światłowód]]></title><description><![CDATA[<a class="tag" href="?query=tag:sieci" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#sieci</a> <a class="tag" href="?query=tag:okablowanie" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#okablowanie</a> <a class="tag" href="?query=tag:połączenie" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#połączenie</a> 
+ <br><a href=".?query=tag:sieci" class="tag" target="_blank" rel="noopener nofollow">#sieci</a> <a href=".?query=tag:okablowanie" class="tag" target="_blank" rel="noopener nofollow">#okablowanie</a> <a href=".?query=tag:połączenie" class="tag" target="_blank" rel="noopener nofollow">#połączenie</a> <br><br>Światłowody to przewody, które wykorzystują światło do przesyłania danych. Działanie światłowodów opiera się na zjawisku całkowitego wewnętrznego odbicia, które umożliwia prowadzenie sygnału świetlnego przez włókno szklane lub plastikowe na duże odległości z minimalnymi stratami.<br><br>Rdzeń (Core)<br>
+<br>Centralna część światłowodu, wykonana ze szkła lub plastiku.
+<br>Przewodzi światło.
+<br>Średnica rdzenia wynosi od kilku do kilkudziesięciu mikrometrów.
+<br>Płaszcz (Cladding)<br>
+<br>Otacza rdzeń i ma niższy współczynnik załamania światła.
+<br>Odpowiada za odbijanie światła z powrotem do rdzenia, umożliwiając jego propagację.
+<br>Powłoka ochronna (Buffer Coating)<br>
+<br>Warstwa ochronna zabezpieczająca włókno przed uszkodzeniami i wilgocią.
+<br>Wzmocnienia (Strength Members)<br>
+<br>W niektórych światłowodach dodawane są elementy wzmacniające, np. z kevlaru, by zwiększyć odpornośc mechaniczną.
+<br>Płaszcz zewnętrzny (Outer Jacket)<br>
+<br>Zewnętrzna osłona chroniąca światłowód przed uszkodzeniami środowiskowymi.
+<br><br><br>OS1:<br>
+<br>Tłumienie do 1 dB/km.
+<br>Maksymalna odległość do 10 km.
+<br>Przeznaczenie: Sieci wewnątrzbudynkowe i instalacje o ograniczonych odległościach.
+<br>OS2:<br>
+<br>Tłumienie do 0,4 dB/km.
+<br>Maksymalna odległość powyżej 10 km.
+<br>Przeznaczenie: Sieci dalekosiężne
+<br><br>OM1:<br>
+<br>Średnica rdzenia: 62,5 um.
+<br>Pasmo: 200 MHz*km.
+<br>Maksymalna odległość: 300 m.
+<br>Przeznaczenie: Sieci 100 Mbps i 1 Gbps.
+<br>OM2:<br>
+<br>Średnica rdzenia: 50 um.
+<br>Pasmo: 500 MHz*km.
+<br>Maksymalna odległość: 600 m.
+<br>Przeznaczenie: Sieci 1 Gbps.
+<br>OM3:<br>
+<br>Średnica rdzenia: 50 um.
+<br>Pasmo: 2000 MHz*km.
+<br>Maksymalna odległość: 300 m.
+<br>Przeznaczenie: Sieci 10 Gbps.
+<br>OM4:<br>
+<br>Średnica rdzenia: 50 um.
+<br>Pasmo: 4700 MHz*km.
+<br>Maksymalna odległość: 550 m.
+<br>Przeznaczenie: Sieci 40 Gbps o 100 Gbps.
+<br>OM5 (Wideband):<br>
+<br>Średnica rdzenia: 50 um.
+<br>Pasmo: Dostosowane do transmisji wielofalowej (SWDM)
+<br>Przeznaczenie: Nowoczesne sieci o bardzo wysokich przepustowościach.
+]]></description><link>sieci\media-transmisyjne\światłowód.html</link><guid isPermaLink="false">Sieci/Media transmisyjne/Światłowód.md</guid><dc:creator><![CDATA[Mag Magik II]]></dc:creator><pubDate>Sat, 11 Jan 2025 09:08:48 GMT</pubDate></item><item><title><![CDATA[Działanie]]></title><description><![CDATA[ 
+ <br><br>PoE to technologia, która umożliwia przesyłanie zarówno danych, jak i zasilania elektrycznego przez jeden kabel Ethernet. Dzięki temu można zasilać urządzenia sieciowe bez konieczności podłączania ich do oddzielnego źródła zasilania.<br><br>PoE wykorzystuje nieuzywanie przewody w kablu Ethernet (w standardzie 10/100 Mbps) lub pary przewodów przeznaczonych zarówno do przesyłu danych, jak i zasilania (w standardzie Gigabit Ethernet). Zasilanie jest wprowadzane przez urządzanie zasilające, takie jak PoE switch lub PoE injector, a następnie odbierane przez urządzenie końcowe.<br><br>
+<br>IEEE 802.3af (PoE)
+
+<br>Maksymalna moc dostarczona do urządzenia: 15,4 W
+<br>Typowe zastosowania: telefony VoIP, małe punkty dostępowe Wi-Fi
+
+
+<br>IEEE 802.3at (PoE+)
+
+<br>Maksymalna moc dostarczana do urządzenia: 25,5 W
+<br>Typowe zastosowania: Kamery IP z funkcją PTZ, większe punkty dostępowe Wi-Fi
+
+
+<br>IEEE 802.3bt (PoE++)
+
+<br>Typ 3: Moc do 60 W
+<br>Typ 4: Moc do 100 W
+<br>Typowe zastosowania: Duże wyświetlacze, komputery miniaturowe
+
+
+]]></description><link>sieci\poe-(power-over-ethernet).html</link><guid isPermaLink="false">Sieci/PoE (Power over Ethernet).md</guid><dc:creator><![CDATA[Mag Magik II]]></dc:creator><pubDate>Sat, 11 Jan 2025 17:48:20 GMT</pubDate></item><item><title><![CDATA[Topologie sieciowe]]></title><description><![CDATA[<a class="tag" href="?query=tag:sieci" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#sieci</a> <a class="tag" href="?query=tag:topologia" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#topologia</a> 
+ <br><a href=".?query=tag:sieci" class="tag" target="_blank" rel="noopener nofollow">#sieci</a> <a href=".?query=tag:topologia" class="tag" target="_blank" rel="noopener nofollow">#topologia</a> <br><br>Topologia sieciowa to sposób organizacji i połaczenia urządzeń w <a data-tooltip-position="top" aria-label="Sieć komputerowa" data-href="Sieć komputerowa" href="Sieć komputerowa" class="internal-link" target="_self" rel="noopener nofollow">sieci komputerowej</a>. Od jej wyboru zależy efektywność i możliwość dalszej rozbudowy sieci. <br><br><br>Wszystkie urządzenia są podłączone do jednego wspólnego kabla (magistrali), który przesyła dane w obu kierunkach. Komputery komunikują się poprzez wysyłanie sygnałów, które są odbierane przez każde urządzenie, ale przeznaczone tylko dla wybranego odbiorcy.<br>Zalety:<br>
+<br>Niski koszt instalacji ponieważ wymaga mało okablowania
+<br>Łatwa w implementacji dla małych sieci, np. sieci lokalnych (LAN)
+<br>Wady:<br>
+<br>Awaria kabla powoduje zatrzymanie całej sieci
+<br>Problemy z kolizjami danych w przypadku dużej ilości urządzeń
+<br>Ograniczona skalowalność
+<br><br>Wszystkie urządzenia są połączone bezpośrednio z centralnym punktem (np. przełącznikiem lub routerem). Centralny punkt pełni rolę węzła, przez który przepływają wszystkie dane między urządzeniami. Każde urządzenie posiada oddzielny kabel łączący je z centralnym punktem.<br>Zalety:<br>
+<br>Łatwość zarządzania - Centralny punkt umożliwa monitorowanie siecią
+<br>Wysoka niezawodność - Awarie w jednym urządzeniu nie wpływają na resztę sieci
+<br>Łatwość rozbudowy
+<br>Efektywność przesyłania danych - Dane są przesyłane bezpośrednio między centralnym punktem a urządzeniem docelowym
+<br>Wady:<br>
+<br>Zależność od centralnego punktu
+<br>Koszty instalacji
+<br>Ograniczenia skalowalności
+<br><br>Topologia pierścienia to układ sieci, w którym każde urządzenie jest połączone z dwoma innymi urządzeniami, tworząc zamkniętą pętle. Dane są przesyłane w jednym kierunku (lub dwóch, w przypadku użycia podwójnego pierścienia), a każdy węzeł działa jako przekaźnik, przekazując dane do następnego urządzenia w sieci.<br>Charakterystyka Topologii Pierścienia:<br>
+<br>Struktura zamknięta: Tworzy zamknięty obwód, w którym każde urządzenie jest połączone z dwoma innymi.
+<br>Przekazywanie danych: Dane przesyłane są przez każdy węzeł aż do osągnięcia urządzenia docelowego.
+<br>Kierunek przesyłu: Może być jednokierunkowy (simplex) lub dwukierunkowy (duplex).
+<br>Synchronizacja: Wymaga precyzyjnej synchronizacji w przesyłaniu danych.
+<br>Podwójny Pierścień:<br>
+W tej wersji sieci dane mogą być przesyłane w obu kierunkach, co zwiększa niezawodność i tolerancję na awarie. W razie awarii jednego z pierścieni, dane mogą być przesyłane drugim, co zapewnia ciągłość pracy sieci.<br>Zalety:<br>
+<br>Brak kolizji danych
+<br>Równe obciążenie sieci
+<br>Deterministyczny charakter - Każdy węzeł wie, kiedy dane do niego dotrą, co sprawia że topologia pierścienia jest idealną w systemach o stałych wymaganiach czasowych
+<br>Niskie koszty okablowania
+<br>Wady:<br>
+<br>Zależność od wszystkich węzłów
+<br>Trudności w rozbudowie
+<br>Opóźnienia w przesyle danych
+<br>Trudniejsza diagnostyka
+<br><br>Topologia siatki to zaawansowany układ sieci, w którym każde urządzenie (węzeł) jest połączone bezpośrednio z jednym lub wieloma innymi węzłami. Dzięki takiej strukturze każdy węzeł może komunikować się z dowolnym innym węzłem, bez konieczności przesyłania danych przez centralny punkt.<br>Rodzaje topologii siatki:<br>
+<br>Pełna siatka (Full Mesh): Każde urządzenie jest połączone bezpośrednio z każdym innym urządzeniem w sieci.
+<br>Częściowa siatka (Partial Mesh): Tylko niektóre węzły są połączone bezpośrednio, a pozostałe komunikują się przez inne węzły.
+<br>Zalety:<br>
+<br>Wysoka niezawodność
+<br>Efektywność przesyłu danych
+<br>W przypadku pełnej siatki ruch sieciowy rozkłada się równomiernie
+<br>Tolerancja na awarie
+<br>Elastyczność
+<br>Wady:<br>
+<br>Koszty instalacji i utrzymania
+<br>Złożoność projektowania i zarządzania
+<br>Przeciązenie przy dużej liczbie węzłów
+<br>Trudności w fizycznym okablowaniu
+<br><br>To hierarchiczny układ sieci, w którym urządzenia są połączone w struktuę przypominającą drzewo. Jest to rozszerzenie topologii gwiazdy, gdzie kilka sieci gwiaździstych jest połączonych w jedną hierarchię, z jednym głównym węzłem centralnym jako "korzeniem".<br>Charakterystyka Topologii Drzewa:<br>
+<br>Hierarchiczna struktura: Sieć zaczyna się od głównego węzła (korzenia), który łączy się z urządzeniami niższego poziomu, a te z kolei mogą mieć kolejne podwęzły.
+<br>Centralne zarządzanie: Główny węzeł kontroluje przesył danych między podwęzłami.
+<br>Łączenie wielu sieci gwiaździstych: Każda "gałąź" sieci może być oddzielną topologią gwiazdy.
+<br>Zalety:<br>
+<br>Skalowalność - Łatwo można dodawać kolejne urządzenia do różnych gałęzi
+<br>Centralne zarządzanie ruchem - Węzły wyższego poziomu kontrolują ruch danych
+<br>Zorganizowana struktura - Hierarchia pomaga w utrzymaniu porządku i przepływu danych
+<br>Łatwiejsze wykrywanie błędów
+<br>Kompatybilność z protokołami sieciowymi
+<br>Wady:<br>
+<br>Zależność od węzłów wyższego poziomu
+<br>Wysokie koszty infrastruktury
+<br>Skomplikowana struktura
+<br>Ograniczona ilość poziomów
+<br><br>To kombinacja dwóch lub więcej różnych topologii sieciowych, takich jak gwiazda, magistrala, pierścień czy siatka. Celem takiej kombinacji jest wykorzystanie zalet poszczególnych topologii, jednocześnie minimalizując ich wady.<br>Charakterystyka Topologii Hybrydowej:<br>
+<br>Elastyczność konstrukcji: Struktura sieci może być dostosowana do specyficznych potrzeb organizacji poprzez połączenie różnych topologii.
+<br>Modularność: Poszczególne sekcje sieci mogą być oparte na różnych topololgiach.
+<br>Kompatybilność: Może współpracować z różnymi technologiami i standardami sieciowymi.
+<br>Centralne i zdecentralizowane elementy: Topologia hybrydowa może łączyć struktury hierarchiczne z bardziej równomiernym rozłożeniem ruchu danych.
+<br>Zalety:<br>
+<br>Wydajność
+<br>Elastyczność i skalowalność
+<br>Odporność na awarie
+<br>Dostosowanie do potrzeb
+<br>Zoptymalizowane zarządzanie ruchem
+<br>Wady:<br>
+<br>Złożoność projektowania i zarządzania
+<br>Wysokie koszty
+<br>Kompatybilność sprzętu i oprogramowania
+<br>Trudności w diagnozowaniu problemów
+<br><br><br>Są to urządzenia które komunikują się za pośrednictwem sieci.<br>
+<br>Wysyłają i odbierają dane
+<br>Są to punkty początkowe i końcowe transmisji danych
+<br><br>Każdy punkt w sieci, który jest połączony z innymi urządzeniami i może odbierać, wysyłać lub przesyłać dane.<br>
+<br>Router jako węzeł przekazujący dane między siecią lokalną a internetem.
+<br>Przełącznik (switch) zarządzający ruchem w <a data-tooltip-position="top" aria-label="Sieć LAN" data-href="Sieć LAN" href="Sieć LAN" class="internal-link" target="_self" rel="noopener nofollow">sieci LAN</a>.
+<br><br>Fizyczne lub bezprzewodowe środki, które umożliwają przesyłanie danych między urządzeniami w sieci. Są to nośniki transmisji danych, zapewniają połączenie między węzłami. Wyróżniamy dwa typy:<br>
+<br>Przewodowe (Skrętka, światłowód, kabel koncentryczny).
+<br>Bezprzewodowe (Fale radiowe, podczerwień, sieci satelitarne i mikrofalowe).
+<br><br>Zestaw reguł określających sposób komunikacji między urządzeniami w sieci (TCP/IP, Wi-Fi, Bluetooth).<br>
+<br>Zapewnia poprawną wymianę danych między urządzeniami o różnych funkcjach.
+<br>Zarządza transmisją, np. w przypadku kolizji lub błedów danych.
+<br>“fajna notatka.canvas” is not created yet. Click to create.]]></description><link>sieci\topologie-sieciowe.html</link><guid isPermaLink="false">Sieci/Topologie sieciowe.md</guid><dc:creator><![CDATA[Mag Magik II]]></dc:creator><pubDate>Sat, 11 Jan 2025 17:40:00 GMT</pubDate></item><item><title><![CDATA[Ważne na egzamin!]]></title><description><![CDATA[ 
+ <br><br><br><br>
+<br>IEEE 802.3af (PoE)
+
+<br>Maksymalna moc dostarczona do urządzenia: 15,4 W
+<br>Typowe zastosowania: telefony VoIP, małe punkty dostępowe Wi-Fi
+
+
+<br>IEEE 802.3at (PoE+)
+
+<br>Maksymalna moc dostarczana do urządzenia: 25,5 W
+<br>Typowe zastosowania: Kamery IP z funkcją PTZ, większe punkty dostępowe Wi-Fi
+
+
+<br>IEEE 802.3bt (PoE++)
+
+<br>Typ 3: Moc do 60 W
+<br>Typ 4: Moc do 100 W
+<br>Typowe zastosowania: Duże wyświetlacze, komputery miniaturowe
+
+
+]]></description><link>sieci\ważne-na-egzamin!.html</link><guid isPermaLink="false">Sieci/Ważne na egzamin!.md</guid><dc:creator><![CDATA[Mag Magik II]]></dc:creator><pubDate>Sat, 11 Jan 2025 17:47:44 GMT</pubDate></item><item><title><![CDATA[Sortowanie przez wybieranie]]></title><description><![CDATA[<a class="tag" href="?query=tag:sortowanie" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#sortowanie</a> <a class="tag" href="?query=tag:On2" style="background-color: rgb(4, 108, 116); color: white; font-weight: 700; border: none; border-radius: 1em; padding: 0.2em 0.5em;">#On2</a> 
  <br><a href=".?query=tag:sortowanie" class="tag" target="_blank" rel="noopener nofollow">#sortowanie</a> <a href=".?query=tag:On2" class="tag" target="_blank" rel="noopener nofollow">#On2</a> <br><br>Wydajność algorytmu: <br>
 Sortowanie przez wybieranie pozwala na posortowanie listy w określonej kategorii. Polega na szukaniu największego elementu listy, dodanie go do nowej listy i powtarzanie procesu dopóki z oryginalnej listy nie zostanie żaden element do posortowania.<br><br>int? sort()
 {
@@ -61,12 +286,7 @@ Zbiór wiedzy zebranej o tematach należących do Computer Science. I wiele inny
 <br>Działanie procesorów na które programujesz
 <br>Zarządzanie pamięcią
 <br>Generowanie plików wykonywalnych dla kernela
-]]></description><link>index.html</link><guid isPermaLink="false">Index.md</guid><dc:creator><![CDATA[Mag Magik II]]></dc:creator><pubDate>Sat, 28 Dec 2024 16:37:57 GMT</pubDate></item><item><title><![CDATA[Link]]></title><description><![CDATA[ 
- <br><br>Procesor, znany również jako jednostka centralna (ang. Central Processing Unit, CPU), jest jednym z najważniejszych komponentów każdego komputera. Odpowiada za wykonywanie obliczeń oraz realizację instrukcji zawartych w programach. Współczesne procesory charakteryzują się ogromną mocą obliczeniową, miniaturowymi wymiarami oraz zaawansowaną architekturą.<br>
-<img alt="Pasted image 20241228172455.png" src="_images\pasted-image-20241228172455.png">]]></description><link>link.html</link><guid isPermaLink="false">Link.md</guid><dc:creator><![CDATA[Mag Magik II]]></dc:creator><pubDate>Sun, 05 Jan 2025 23:08:32 GMT</pubDate><enclosure url="_images\pasted-image-20241228172455.png" length="0" type="image/png"/><content:encoded>&lt;figure&gt;&lt;img src="_images\pasted-image-20241228172455.png"&gt;&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Untitled]]></title><description><![CDATA[ 
- Pamięć przydzielona tablicy<br>Element 1<br>Element 5<br>Pusty element tablicy<br>Element 3<br>Element 4<br>Pusta komórka pamięci<br>Pusta komórka pamięci<br>Pusta komórka pamięci<br>Tablica<br>Pusta komórka pamięci<br>Pusta komórka pamięci<br>Pusta komórka pamięci<br>Pusty element tablicy]]></description><link>untitled.html</link><guid isPermaLink="false">Untitled.canvas</guid><dc:creator><![CDATA[Mag Magik II]]></dc:creator><pubDate>Tue, 07 Jan 2025 22:37:19 GMT</pubDate></item><item><title><![CDATA[Wywołania systemowe]]></title><description><![CDATA[ 
- <br>]]></description><link>wywołania-systemowe.html</link><guid isPermaLink="false">Wywołania systemowe.md</guid><dc:creator><![CDATA[Mag Magik II]]></dc:creator><pubDate>Sun, 05 Jan 2025 23:08:46 GMT</pubDate></item><item><title><![CDATA[Komunikacja międzyprocesowa]]></title><description><![CDATA[ 
- <br>]]></description><link>os\concepts\procesy\komunikacja-międzyprocesowa.html</link><guid isPermaLink="false">OS/Concepts/Procesy/Komunikacja międzyprocesowa.md</guid><dc:creator><![CDATA[Mag Magik II]]></dc:creator><pubDate>Fri, 27 Dec 2024 12:02:07 GMT</pubDate></item><item><title><![CDATA[Przerwania]]></title><description><![CDATA[ 
+]]></description><link>index.html</link><guid isPermaLink="false">Index.md</guid><dc:creator><![CDATA[Mag Magik II]]></dc:creator><pubDate>Sat, 28 Dec 2024 16:37:57 GMT</pubDate></item><item><title><![CDATA[Przerwania]]></title><description><![CDATA[ 
  <br><br>Przerwania to jeden z najbardziej podstawowych mechanizmów interakcji procesora z systemem operacyjnym. Dzięki przerwaniom procesor może reagować na zdarzenia w sposób natychmiastowy, bez konieczności ciągłego sprawdzania stanów urządzeń (polling).<br><br>
 <br>Zgłoszenie przerwania
 <br>Zapis stanu procesora
